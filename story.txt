@@ -2,11 +2,18 @@ Once there was a man named John. John lived in a mining town.
 One day John was at a 711 and was approached by a miner and was asked to buy alcohol.
 John went in the 711 and purchased some beer for the miner.
 Johnny was later arrested because the miner was actually a minor.
+
 However, after talking to the policeman John discovered that the minor
 he was buying alcohol for, heavily resembled the policeman. After talking to 
 him more he discovered that in fact his suspicions were correct. It was the policeman's son.
 He was devastated and dissappointed that his son had done such a thing. The 
 policeman, angrily drove his son back to their house where they had a long 
-talk about what had just happened. The son was already grounded and his father
+talk about what had just happened. 
+
+The son was already grounded and his father
 was not happy with him. He didn't know what to do.
-Another person, Aug, has seen this, Aug does not know how to add paragraph. He feel very sad. Finally, he discovered that he may add anything into this story to make it looks great.
+Another person, Aug, has seen this, Aug does not know how to add paragraph. He feel very sad. 
+Finally, he discovered that he may add anything into this story to make it looks great.
+
+So Aug started to add anything he wanted to the story. It turned out to be the Harry Potter series and Aug grew up to rich and famous.
+Aug now knows how to use git!!
